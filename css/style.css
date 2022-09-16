@@ -5,7 +5,7 @@
 
 body {
     display: flex;
-    font-family: "Comic Sans MS", "Comic Sans", monospace;
+    font-family: 'Open Sans', sans-serif;
     flex-direction: column;
     min-height: 100vh;
 }
@@ -210,4 +210,17 @@ a.foot:hover {
 
 #op {
     color: #888888
+}
+
+.navbar-start a{
+    font-family: "Comic Sans MS", "Comic Sans", monospace;
+} 
+
+
+.hero-body h1 {
+    font-family: "Comic Sans MS", "Comic Sans", monospace;
+}
+
+.hero-body h2 {
+    font-family: "Comic Sans MS", "Comic Sans", monospace;
 }

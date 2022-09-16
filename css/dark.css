@@ -137,7 +137,7 @@ body.dark-mode footer {
 }
 
 body.dark-mode pre {
-    background-color: darkblue;
+    background-color: rgb(34, 34, 37);
     color:darkgrey;
     
     font-family: "Comic Sans MS", "Comic Sans", monospace;

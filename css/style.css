@@ -5,7 +5,7 @@
 
 body {
     display: flex;
-    font-family: 'Open Sans', sans-serif;
+    font-family: "Comic Sans MS", "Comic Sans", monospace;
     flex-direction: column;
     min-height: 100vh;
 }
@@ -75,6 +75,7 @@ main {
     font-weight: 700;
     color: #37BC9B;
 }
+
 
 .content h3 {
     border-bottom: 1px solid #DDD;

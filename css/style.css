@@ -98,6 +98,17 @@ main {
     color: #37BC9B;
 }
 
+.content h5 {
+    border-bottom: 1px solid #DDD;
+    position: relative;
+    padding-bottom: 10px;
+    font-family: "Comic Sans MS", "Comic Sans", monospace;
+    margin-bottom: 15px;
+    font-size: 18px;
+    font-weight: 700;
+    color: #37BC9B;
+}
+
 .content h6 {
     border-bottom: 1px solid #DDD;
     position: relative;
@@ -108,6 +119,18 @@ main {
     font-weight: 700;
     color: #37BC9B;
 }
+
+.content pre {
+    border-bottom: 1px solid #DDD;
+    position: relative;
+    padding-bottom: 10px;
+    font-family: "Comic Sans MS", "Comic Sans", monospace;
+    margin-bottom: 15px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #37BC9B;
+}
+
 
 
 .header-image {
